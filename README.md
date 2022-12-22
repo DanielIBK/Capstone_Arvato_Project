@@ -8,7 +8,8 @@ A detailed blog post is written on Medium an can be found [here](https://medium.
 # Requirements
 Python version used `3.9.7`
 
-Following packages main are needed for the Jupyter Notebook: 
+Following packages main are needed for the Jupyter Notebook:
+
     * numpy
     * pandas
     * matplotlib
