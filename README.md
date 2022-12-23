@@ -1,4 +1,4 @@
-# Captsone_Arvato_Project
+# Capstone_Arvato_Project
 The project has two major steps: the customer segmentation report and the supervised learning model.#
 All is done in the '`Arvate Project Workbook.ipynb` file in this repository
 
