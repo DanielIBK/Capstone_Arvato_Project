@@ -4,3 +4,7 @@ Data/Udacity_MAILOUT_052018_TRAIN.csv
 feature_importance.png
 DIAS Information Levels - Attributes 2017.xlsx
 DIAS Attributes - Values 2017.xlsx
+Data/azdias_cluster.pickle
+Data/azdias.pickle
+Data/customer_cluster.pickle
+Data/customers.pickle
