@@ -15,3 +15,15 @@ Following packages main are needed for the Jupyter Notebook:
     * matplotlib
     * seaborn
     * sklearn
+
+# Data Source
+Data was provided by Udacity and their partners Arvato/Bertelsmann
+
+# File Structure
+
+    |`Arvato Project Workbook.ipynb`                :the script for building the model
+    |LICENSE                                        :MIT LICENSE file
+    \Data\                                          :Subfolder with the data
+            |`Udacity_AZDIAS_052018.csv`            :provided data file
+            |`Udacity_CUSTOMERS_052019.csv`         :provided data file
+            |`Udacity_MAILOUT_052018_TRAIN.csv`     :provided data file
